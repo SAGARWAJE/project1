@@ -27,4 +27,7 @@ public class ZerodhaPinPage {
 	 public void clickOnSignUp(){
 		signUp.click();
 	 }
+	 public void clickOnSign(){
+			signUp.click();
+		 }
 }
